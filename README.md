@@ -79,6 +79,6 @@ python 4_inference_strategy.py
 **Gayathri Kumar**  
 Data Scientist & AI Engineer | Ex-Deloitte | MS Information Science @ UNT  
 📧 gayathrikumar.tx@gmail.com  
-🔗 [[[LinkedIn]]([url](https://www.linkedin.com/in/gayathri-kumar-link/))(#)]
+🔗 [([url](https://www.linkedin.com/in/gayathri-kumar-link/))]
 
 ---
